@@ -1,17 +1,21 @@
 # vr-jomon-museum
-日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-3D virtual tour of the Jomon Museum in Wakasa, Fukui, Japan.
+VR 若狭三方縄文博物館 外観 glb-viewer
 
-## Demo
-https://code4fukui.github.io/vr-jomon-museum/
+**Live demo**: https://code4fukui.github.io/vr-jomon-museum/
 
-## Features
-- 360-degree virtual tour of the Jomon Museum building
-- Interactive controls for navigation and viewpoint
+## Technology Stack
 
-## Usage
-The scene can be viewed in a web browser. Use the cursor to move around, the mouse to change view, and the space/shift keys to move up/down.
+
+## Installation & Setup
+
+No build step required. Clone the repository and open `index.html` in a browser,
+or visit the live demo at https://code4fukui.github.io/vr-jomon-museum/
+
+## Contributing
+
+Contributions are welcome. Please open an issue or pull request on GitHub.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+
+MIT License. See [LICENSE](./LICENSE) for details.
